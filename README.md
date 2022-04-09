@@ -18,7 +18,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+  <img align="right" alt="Bill Cypher" height="150" style="border-radius:50px; src= "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2c1e1671-9beb-4240-af4d-6050562bac30/daiytfg-99700e92-a209-4657-b3c1-d48060c1ec52.gif?token">
 </div><br>
+<
 
  <div align="center">
   
