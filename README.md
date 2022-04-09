@@ -1,9 +1,9 @@
-<h1 text align="center"> Olá. Me chamo Rhevlen e te dou as boas vindas ao meu perfil. </h1>
+<h1 text align="center"> 𓃠 Olá. Me chamo Rhevlen e te dou as boas vindas ao meu perfil. </h1>
 
-<p align="center"> 🖤 Atendo pelo pseudônimo Vant.</p>
-<p align="center">🔭 Atualmente trabalho com front e back-end e faço práticas com pentest. </p>
-<p align="center">🍒 Estudando Raspberry PI. </p>
-<p align="center">💟 Qualquer pronome. </p>
+<p align="center"> 🎔 Atendo pelo pseudônimo Vant. 🎔</p> 
+<p align="center"> 🎔 Atualmente trabalho com front e back-end e faço práticas com pentest. 🎔</p> 
+<p align="center"> 🎔 Estudando Raspberry PI. 🎔</p> 
+<p align="center"> 🎔 Qualquer pronome. 🎔</p> 
 
 <div align="center">
   <a href="https://github.com/VopeMajor">
